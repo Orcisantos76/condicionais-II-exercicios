@@ -1,6 +1,6 @@
 //códigos a serem reescritos
 const nome=prompt("insira o nome:")
-const idade=Number(prompt('Insira sua idade.'))
+const idade=Number(prompt('Insira sua idade:'))
 // a)
 if(nome === "José"){
 	console.log("Oi, Zé!")

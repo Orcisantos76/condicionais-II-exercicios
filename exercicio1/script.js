@@ -1,5 +1,5 @@
 function linha() {
-    console.log('-=-=-=-=-=-=-=-=-=-=-=--=')
+    console.log('-=-=-=-=-=-=-=-=-=-=-=--=-=')
 }
 linha()
 // # Exercício 1
